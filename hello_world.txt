@@ -1,8 +1,6 @@
 Lorem ipsum dolor sit amet,
 consectetuer adipiscing elit.
- commodo ligula eget dolor.
- massa.
-Cum sociis natoque penatibus servus et magnis dis parturient montes,
+Aenean commodo ligula eget dolor.
 nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 Nulla consequat massa quis enim.
